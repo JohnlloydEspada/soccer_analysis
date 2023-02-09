@@ -1,2 +1,3 @@
-# soceer_analysis
+# soccer_analysis
 Analyzing goal trends
+
